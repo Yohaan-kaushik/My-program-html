@@ -1,0 +1,29 @@
+<html>
+<head>
+    <title>Website of YOHAAN Kaushik</title>
+    <style type="text/css">
+        body {
+            background-image: url("hui.jpg");
+            background-position: top center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+           
+        }
+        img {
+            width: 500px; /* Set desired width */
+            height: auto; /* Maintain aspect ratio */
+            display: block; /* Make the image a block element */
+            margin: 0 auto; /* Center the image horizontally */
+        }
+    </style>
+</head>
+<body>
+    <p style="color: red;">This is my first Website that I'm uploading. I hope you like it.</p>    
+    <img src="hui.jpg" alt="Image Description">
+    <br>
+    <hr width="70%">
+    <!--I hope you like it. It is my first program-->
+</body>
+</html>
+
+
